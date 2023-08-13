@@ -2,7 +2,11 @@
 
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
+<<<<<<< HEAD
 If you are just starting this process, start from branch 0-initial-setup. Otherwise, switch to the appropriate numbered branches of this repo as needed. The branches are:
+=======
+If you want to follow along with the course, you will start from the master and switch to the appropriate numbered branches of this repo as needed. The branches are:
+>>>>>>> testing
 - [0-initial-setup](https://github.com/udacity/fend-webpack-content/tree/0-initial-setup)
 - [1-install-webpack](https://github.com/udacity/fend-webpack-content/tree/1-install-webpack)
 - [2-add-webpack-entry](https://github.com/udacity/fend-webpack-content/tree/2-add-webpack-entry)
@@ -35,6 +39,10 @@ git clone -- git@github.com:[your-user-name]/webpack-express.git --
 `cd` into your new folder and run:
 - ```npm install```
 - ```npm start``` to start the app
+<<<<<<< HEAD
 - this app runs on localhost:8080, but you can of course edit that in server.js
 
 **Note:** Webpack needs to be at version 4 in order for this repo to work as expected. Webpack is automatically included at the correct version in the `package.json` provided here.
+=======
+- this app runs on localhost:8080, but you can of course edit that in index.js
+>>>>>>> testing
